@@ -1,0 +1,37 @@
+{
+    "id": "nightmclol",
+    "name": "NightMC",
+    "description": "HCF teamfights, modern PvP practice and ranked duels.",
+    "addresses": [
+        "nightmc.lol"
+    ],
+    "primaryAddress": "nightmc.lol",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#6EE7D0",
+    "secondaryColor": "#007777",
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko",
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Practice",
+    "website": "https://nightmc-match-history.silfyxd.chatgpt.site",
+    "socials": {
+        "discord": "https://discord.gg/7mZVQEgpg2"
+    },
+    "crossplay": false,
+    "offline": false
+}
